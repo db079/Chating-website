@@ -35,4 +35,24 @@ This is a fully functional chat website that allows users to communicate with ea
 Your site is successfully running.
 
 ## Some of Screenshots are listed below
-![Screenshot](1.png)
+1) database 
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/1.jpg)
+
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/2.jpg)
+
+
+2) Signup page
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/3.jpg)
+
+
+3) after login
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/4.jpg)
+
+
+4) chats
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/5.jpg)
+
+
+5) chats
+![Screenshot](https://github.com/db079/Chatapp/blob/main/screenshots/6.jpg)
+
